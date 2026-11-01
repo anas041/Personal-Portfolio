@@ -1,0 +1,1 @@
+Add your original BAKIFY admin screenshot to this folder and name it bakify-dashboard.png.
